@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashmi-kavindya&label=Profile%20views&color=0e75b6&style=flat" alt="rashmi-kavindya" /> </p>
 
 ### 🧐 About Me:  
-- 🎓 I'm an **Computer Engineering Undergraduate at the University of Sri Jayewardenepura**  
+- 🎓 I am **Computer Engineering Undergraduate at the University of Sri Jayewardenepura**  
 - 🌱 Currently learning **React, JavaScript**  
 - 💡 Passionate about **Mobile App Development, Software Development, Business Intelligence, and Data Science**  
 - 📫 Reach me at **rashmikavindya40@gmail.com**  
