@@ -5,7 +5,7 @@
 
 ### 🧐 About Me:  
 - 🎓 I am **Computer Engineering Undergraduate at the University of Sri Jayewardenepura**  
-- 🌱 Currently learning **React, JavaScript**  
+- 🌱 Currently learning **React**  
 - 💡 Passionate about **Mobile App Development, Software Development, Business Intelligence, and Data Science**  
 - 📫 Reach me at **rashmikavindya40@gmail.com**  
 
